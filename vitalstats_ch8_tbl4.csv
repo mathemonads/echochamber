@@ -1,0 +1,379 @@
+Year,Chamber,Party,Score
+1954,House,All Democrats,80
+1955,House,All Democrats,84
+1956,House,All Democrats,80
+1957,House,All Democrats,79
+1958,House,All Democrats,77
+1959,House,All Democrats,85
+1960,House,All Democrats,75
+1961,House,All Democrats,n.a.
+1962,House,All Democrats,81
+1963,House,All Democrats,85
+1964,House,All Democrats,82
+1965,House,All Democrats,80
+1966,House,All Democrats,78
+1967,House,All Democrats,77
+1968,House,All Democrats,73
+1969,House,All Democrats,71
+1970,House,All Democrats,71
+1971,House,All Democrats,72
+1972,House,All Democrats,70
+1973,House,All Democrats,75
+1974,House,All Democrats,72
+1975,House,All Democrats,75
+1976,House,All Democrats,75
+1977,House,All Democrats,74
+1978,House,All Democrats,71
+1979,House,All Democrats,75
+1980,House,All Democrats,78
+1981,House,All Democrats,75
+1982,House,All Democrats,77
+1983,House,All Democrats,82
+1984,House,All Democrats,81
+1985,House,All Democrats,86
+1986,House,All Democrats,86
+1987,House,All Democrats,88
+1988,House,All Democrats,88
+1989,House,All Democrats,86
+1990,House,All Democrats,86
+1991,House,All Democrats,86
+1992,House,All Democrats,86
+1993,House,All Democrats,89
+1994,House,All Democrats,88
+1995,House,All Democrats,84
+1996,House,All Democrats,84
+1997,House,All Democrats,85
+1998,House,All Democrats,86
+1999,House,All Democrats,86
+2000,House,All Democrats,86
+2001,House,All Democrats,86
+2002,House,All Democrats,90
+2003,House,All Democrats,91
+2004,House,All Democrats,91
+2005,House,All Democrats,91
+2006,House,All Democrats,90
+2007,House,All Democrats,95
+2008,House,All Democrats,97
+2009,House,All Democrats,94
+2010,House,All Democrats,93
+2011,House,All Democrats,91
+2012,House,All Democrats,91
+2013,House,All Democrats,92
+2014,House,All Democrats,94
+2015,House,All Democrats,95
+2016,House,All Democrats,96
+1954,House,Southern Democrats,n.a.
+1955,House,Southern Democrats,68
+1956,House,Southern Democrats,79
+1957,House,Southern Democrats,71
+1958,House,Southern Democrats,67
+1959,House,Southern Democrats,77
+1960,House,Southern Democrats,62
+1961,House,Southern Democrats,n.a.
+1962,House,Southern Democrats,n.a.
+1963,House,Southern Democrats,n.a.
+1964,House,Southern Democrats,n.a.
+1965,House,Southern Democrats,55
+1966,House,Southern Democrats,55
+1967,House,Southern Democrats,53
+1968,House,Southern Democrats,48
+1969,House,Southern Democrats,47
+1970,House,Southern Democrats,52
+1971,House,Southern Democrats,48
+1972,House,Southern Democrats,44
+1973,House,Southern Democrats,55
+1974,House,Southern Democrats,51
+1975,House,Southern Democrats,53
+1976,House,Southern Democrats,52
+1977,House,Southern Democrats,55
+1978,House,Southern Democrats,53
+1979,House,Southern Democrats,60
+1980,House,Southern Democrats,64
+1981,House,Southern Democrats,57
+1982,House,Southern Democrats,62
+1983,House,Southern Democrats,67
+1984,House,Southern Democrats,68
+1985,House,Southern Democrats,76
+1986,House,Southern Democrats,76
+1987,House,Southern Democrats,78
+1988,House,Southern Democrats,81
+1989,House,Southern Democrats,77
+1990,House,Southern Democrats,78
+1991,House,Southern Democrats,78
+1992,House,Southern Democrats,79
+1993,House,Southern Democrats,83
+1994,House,Southern Democrats,83
+1995,House,Southern Democrats,75
+1996,House,Southern Democrats,76
+1997,House,Southern Democrats,79
+1998,House,Southern Democrats,79
+1999,House,Southern Democrats,77
+2000,House,Southern Democrats,80
+2001,House,Southern Democrats,77
+2002,House,Southern Democrats,82
+2003,House,Southern Democrats,85
+2004,House,Southern Democrats,83
+2005,House,Southern Democrats,84
+2006,House,Southern Democrats,n.a.
+2007,House,Southern Democrats,n.a.
+2008,House,Southern Democrats,n.a.
+2009,House,Southern Democrats,n.a.
+2010,House,Southern Democrats,n.a.
+2011,House,Southern Democrats,n.a.
+2012,House,Southern Democrats,n.a.
+2013,House,Southern Democrats,n.a.
+2014,House,Southern Democrats,n.a.
+2015,House,Southern Democrats,n.a.
+2016,House,Southern Democrats,n.a.
+1954,House,Republicans,84
+1955,House,Republicans,78
+1956,House,Republicans,78
+1957,House,Republicans,75
+1958,House,Republicans,73
+1959,House,Republicans,85
+1960,House,Republicans,77
+1961,House,Republicans,n.a.
+1962,House,Republicans,80
+1963,House,Republicans,84
+1964,House,Republicans,81
+1965,House,Republicans,81
+1966,House,Republicans,82
+1967,House,Republicans,82
+1968,House,Republicans,76
+1969,House,Republicans,71
+1970,House,Republicans,72
+1971,House,Republicans,76
+1972,House,Republicans,76
+1973,House,Republicans,74
+1974,House,Republicans,71
+1975,House,Republicans,78
+1976,House,Republicans,75
+1977,House,Republicans,77
+1978,House,Republicans,77
+1979,House,Republicans,79
+1980,House,Republicans,79
+1981,House,Republicans,80
+1982,House,Republicans,76
+1983,House,Republicans,80
+1984,House,Republicans,77
+1985,House,Republicans,80
+1986,House,Republicans,76
+1987,House,Republicans,79
+1988,House,Republicans,80
+1989,House,Republicans,76
+1990,House,Republicans,78
+1991,House,Republicans,81
+1992,House,Republicans,84
+1993,House,Republicans,87
+1994,House,Republicans,87
+1995,House,Republicans,93
+1996,House,Republicans,90
+1997,House,Republicans,91
+1998,House,Republicans,89
+1999,House,Republicans,88
+2000,House,Republicans,90
+2001,House,Republicans,94
+2002,House,Republicans,93
+2003,House,Republicans,95
+2004,House,Republicans,93
+2005,House,Republicans,93
+2006,House,Republicans,91
+2007,House,Republicans,90
+2008,House,Republicans,92
+2009,House,Republicans,89
+2010,House,Republicans,94
+2011,House,Republicans,94
+2012,House,Republicans,93
+2013,House,Republicans,95
+2014,House,Republicans,95
+2015,House,Republicans,94
+2016,House,Republicans,96
+1954,Senate,All Democrats,77
+1955,Senate,All Democrats,82
+1956,Senate,All Democrats,80
+1957,Senate,All Democrats,79
+1958,Senate,All Democrats,82
+1959,Senate,All Democrats,76
+1960,Senate,All Democrats,73
+1961,Senate,All Democrats,n.a.
+1962,Senate,All Democrats,80
+1963,Senate,All Democrats,79
+1964,Senate,All Democrats,73
+1965,Senate,All Democrats,75
+1966,Senate,All Democrats,73
+1967,Senate,All Democrats,75
+1968,Senate,All Democrats,71
+1969,Senate,All Democrats,74
+1970,Senate,All Democrats,71
+1971,Senate,All Democrats,74
+1972,Senate,All Democrats,72
+1973,Senate,All Democrats,79
+1974,Senate,All Democrats,72
+1975,Senate,All Democrats,76
+1976,Senate,All Democrats,74
+1977,Senate,All Democrats,72
+1978,Senate,All Democrats,75
+1979,Senate,All Democrats,76
+1980,Senate,All Democrats,76
+1981,Senate,All Democrats,77
+1982,Senate,All Democrats,76
+1983,Senate,All Democrats,76
+1984,Senate,All Democrats,75
+1985,Senate,All Democrats,79
+1986,Senate,All Democrats,74
+1987,Senate,All Democrats,85
+1988,Senate,All Democrats,85
+1989,Senate,All Democrats,79
+1990,Senate,All Democrats,82
+1991,Senate,All Democrats,83
+1992,Senate,All Democrats,82
+1993,Senate,All Democrats,87
+1994,Senate,All Democrats,86
+1995,Senate,All Democrats,84
+1996,Senate,All Democrats,86
+1997,Senate,All Democrats,86
+1998,Senate,All Democrats,90
+1999,Senate,All Democrats,91
+2000,Senate,All Democrats,90
+2001,Senate,All Democrats,90
+2002,Senate,All Democrats,85
+2003,Senate,All Democrats,89
+2004,Senate,All Democrats,88
+2005,Senate,All Democrats,90
+2006,Senate,All Democrats,89
+2007,Senate,All Democrats,91
+2008,Senate,All Democrats,91
+2009,Senate,All Democrats,93
+2010,Senate,All Democrats,93
+2011,Senate,All Democrats,94
+2012,Senate,All Democrats,93
+2013,Senate,All Democrats,96
+2014,Senate,All Democrats,99
+2015,Senate,All Democrats,93
+2016,Senate,All Democrats,92
+1954,Senate,Southern Democrats,n.a.
+1955,Senate,Southern Democrats,78
+1956,Senate,Southern Democrats,75
+1957,Senate,Southern Democrats,81
+1958,Senate,Southern Democrats,76
+1959,Senate,Southern Democrats,63
+1960,Senate,Southern Democrats,60
+1961,Senate,Southern Democrats,n.a.
+1962,Senate,Southern Democrats,n.a.
+1963,Senate,Southern Democrats,n.a.
+1964,Senate,Southern Democrats,n.a.
+1965,Senate,Southern Democrats,55
+1966,Senate,Southern Democrats,52
+1967,Senate,Southern Democrats,59
+1968,Senate,Southern Democrats,57
+1969,Senate,Southern Democrats,53
+1970,Senate,Southern Democrats,49
+1971,Senate,Southern Democrats,56
+1972,Senate,Southern Democrats,43
+1973,Senate,Southern Democrats,52
+1974,Senate,Southern Democrats,41
+1975,Senate,Southern Democrats,48
+1976,Senate,Southern Democrats,46
+1977,Senate,Southern Democrats,48
+1978,Senate,Southern Democrats,54
+1979,Senate,Southern Democrats,62
+1980,Senate,Southern Democrats,64
+1981,Senate,Southern Democrats,64
+1982,Senate,Southern Democrats,62
+1983,Senate,Southern Democrats,70
+1984,Senate,Southern Democrats,61
+1985,Senate,Southern Democrats,68
+1986,Senate,Southern Democrats,59
+1987,Senate,Southern Democrats,80
+1988,Senate,Southern Democrats,78
+1989,Senate,Southern Democrats,69
+1990,Senate,Southern Democrats,75
+1991,Senate,Southern Democrats,73
+1992,Senate,Southern Democrats,70
+1993,Senate,Southern Democrats,78
+1994,Senate,Southern Democrats,77
+1995,Senate,Southern Democrats,76
+1996,Senate,Southern Democrats,75
+1997,Senate,Southern Democrats,76
+1998,Senate,Southern Democrats,85
+1999,Senate,Southern Democrats,86
+2000,Senate,Southern Democrats,80
+2001,Senate,Southern Democrats,79
+2002,Senate,Southern Democrats,69
+2003,Senate,Southern Democrats,76
+2004,Senate,Southern Democrats,76
+2005,Senate,Southern Democrats,81
+2006,Senate,Southern Democrats,n.a.
+2007,Senate,Southern Democrats,n.a.
+2008,Senate,Southern Democrats,n.a.
+2009,Senate,Southern Democrats,n.a.
+2010,Senate,Southern Democrats,n.a.
+2011,Senate,Southern Democrats,n.a.
+2012,Senate,Southern Democrats,n.a.
+2013,Senate,Southern Democrats,n.a.
+2014,Senate,Southern Democrats,n.a.
+2015,Senate,Southern Democrats,n.a.
+2016,Senate,Southern Democrats,n.a.
+1954,Senate,Republicans,89
+1955,Senate,Republicans,82
+1956,Senate,Republicans,80
+1957,Senate,Republicans,81
+1958,Senate,Republicans,74
+1959,Senate,Republicans,80
+1960,Senate,Republicans,74
+1961,Senate,Republicans,n.a.
+1962,Senate,Republicans,81
+1963,Senate,Republicans,79
+1964,Senate,Republicans,75
+1965,Senate,Republicans,78
+1966,Senate,Republicans,78
+1967,Senate,Republicans,73
+1968,Senate,Republicans,74
+1969,Senate,Republicans,72
+1970,Senate,Republicans,71
+1971,Senate,Republicans,75
+1972,Senate,Republicans,73
+1973,Senate,Republicans,74
+1974,Senate,Republicans,68
+1975,Senate,Republicans,71
+1976,Senate,Republicans,72
+1977,Senate,Republicans,75
+1978,Senate,Republicans,66
+1979,Senate,Republicans,73
+1980,Senate,Republicans,74
+1981,Senate,Republicans,85
+1982,Senate,Republicans,80
+1983,Senate,Republicans,79
+1984,Senate,Republicans,83
+1985,Senate,Republicans,81
+1986,Senate,Republicans,80
+1987,Senate,Republicans,78
+1988,Senate,Republicans,74
+1989,Senate,Republicans,79
+1990,Senate,Republicans,77
+1991,Senate,Republicans,83
+1992,Senate,Republicans,83
+1993,Senate,Republicans,86
+1994,Senate,Republicans,81
+1995,Senate,Republicans,91
+1996,Senate,Republicans,91
+1997,Senate,Republicans,88
+1998,Senate,Republicans,88
+1999,Senate,Republicans,90
+2000,Senate,Republicans,91
+2001,Senate,Republicans,90
+2002,Senate,Republicans,88
+2003,Senate,Republicans,95
+2004,Senate,Republicans,93
+2005,Senate,Republicans,90
+2006,Senate,Republicans,87
+2007,Senate,Republicans,84
+2008,Senate,Republicans,87
+2009,Senate,Republicans,87
+2010,Senate,Republicans,92
+2011,Senate,Republicans,88
+2012,Senate,Republicans,83
+2013,Senate,Republicans,89
+2014,Senate,Republicans,90
+2015,Senate,Republicans,91
+2016,Senate,Republicans,86
